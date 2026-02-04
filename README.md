@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🎓 I'm currently studying Information Technology (Software Engineering Track) at KAU.  <br>- 💻 Passionate about Web Development, UI/UX, and Problem Solving.  <br>- 🌍 Member of FCIT Cybersecurity Club.  <br>- 📚 Always learning and exploring new technologies to improve my skills.</p>
+<p align="left">- 🎓 I'm currently studying Information Technology (Software Engineering Track) at KAU.  <br>- 💻 Passionate about Web Development, UI/UX, and Problem Solving.  <br>- 📚 Always learning and exploring new technologies to improve my skills.</p>
 
 ###
 

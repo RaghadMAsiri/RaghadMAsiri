@@ -75,8 +75,8 @@
 <br clear="both">
 
 <div align="center">
-  <a href="[www.linkedin.com/in/raghad-asiri-93b478310](https://www.linkedin.com/in/raghad-asiri-93b478310/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/raghad-asiri-93b478310/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo" />
   </a>
   
   <a href="raghadasiri88gmail.com" target="_blank">

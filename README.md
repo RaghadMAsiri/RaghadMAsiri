@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Aspiring Web Developer | IT Student at King Abdulaziz University | Software Engineering Track</p>
+<p align="left">Aspiring Web Developer | IT Senior at King Abdulaziz University | Software Engineering Track</p>
 
 ###
 

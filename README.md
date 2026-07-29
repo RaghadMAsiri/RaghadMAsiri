@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🎓 I'm currently studying Information Technology (Software Engineering Track) at KAU.  <br>- 💻 Passionate about Web Development, UI/UX, and Problem Solving.  <br>- 📚 Always learning and exploring new technologies to improve my skills.</p>
+<p align="left">- 🎓 IT & Software Engineering Senior @ KAU.  <br>- 💻 Tech Stack: Python (Django), Java, JS, HTML/CSS.  <br>- 🤖 Exploring Agentic AI frameworks & Automated Workflows. <br>- 🌱 Constantly learning and building innovative digital solutions.</p>
 
 ###
 

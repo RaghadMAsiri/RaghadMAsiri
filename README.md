@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Aspiring Web Developer | IT Senior at King Abdulaziz University | Software Engineering Track</p>
+<p align="left">IT & Software Engineering | AI & Digital Solutions | Full-Stack Web Development</p>
 
 ###
 
